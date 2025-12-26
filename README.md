@@ -1,2 +1,2 @@
 # Instruction for use
-`< ocaml cross.ml `>
+` ocaml cross.ml `
